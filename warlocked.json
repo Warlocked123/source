@@ -37,9 +37,6 @@
         "bouncer": null,
         "rdj": null,
         "subscriber": null,
-        "silversubscriber": null,
+        "silversubscriber": null
     },
-    "emotes": {
-    	"emote_name": null
-    }
 }
