@@ -2,11 +2,11 @@
     "room": "Community Name",
     "author": "Author",
     "icon": null,
-    "css": "https://rawgit.com/Warlocked123/source/master/warlocked.css",
+    "css": null,
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
-        "allowAutojoin": true,
+        "allowAutojoin": false,
         "allowAutograb": true,
         "allowSmartVote": true,
         "allowEmotes": true,
