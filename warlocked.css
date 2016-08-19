@@ -1,5 +1,5 @@
 #room .app-right {
-    background: linear-gradient(to right,rgba(0, 0, 0, 0.70) 0,rgba(0, 0, 0, 0.90) 100%);
+    background: rgba(0, 0, 0, 0.70);
 }
 #user-rollover {
     background: rgba(0,0,0,.4);
