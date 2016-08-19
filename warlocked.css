@@ -1,1 +1,3 @@
-#room .app-right { background: linear-gradient(to right,rgba(0, 0, 0, 0.70) 0,rgba(0, 0, 0, 0.90) 100%); }
+#room .app-right { 
+  background: linear-gradient(to right,rgba(0, 0, 0, 0.70) 0,rgba(0, 0, 0, 0.90) 100%); 
+}
