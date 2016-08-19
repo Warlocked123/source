@@ -1,8 +1,8 @@
 {
-    "room": "Community Name",
-    "author": "Author",
+    "room": "Warlzinho",
+    "author": "Warlocked",
     "icon": null,
-    "css": null,
+    "css": "https://rawgit.com/Warlocked123/source/master/warlocked.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
