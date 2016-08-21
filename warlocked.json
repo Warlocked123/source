@@ -34,7 +34,7 @@
         "host": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "cohost": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "manager": null,
-        "bouncer": "https://cdn.radiant.dj/rcs/emotes/img/plugdj/badges/bdg-ea.png",
+        "bouncer": null,
         "rdj": null,
         "subscriber": null,
         "silversubscriber": null
