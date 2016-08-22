@@ -27,8 +27,8 @@
         "user": null
     },
     "images": {
-        "background": "http://www.umusic.ca/files/2015/08/Album-Cover_Demi-Lovato_Confident.jpg",
-        "playback": "http://www.umusic.ca/files/2015/08/Album-Cover_Demi-Lovato_Confident.jpg",
+        "background": "https://blog.intercom.io/wp-content/uploads/2015/04/Plug-DJ-hero-image.png",
+        "playback": "https://blog.intercom.io/wp-content/uploads/2015/04/Plug-DJ-hero-image.png",
         "admin": null,
         "ambassador": null,
         "host": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
