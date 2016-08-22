@@ -36,7 +36,7 @@
         "manager": "https://dl.dropboxusercontent.com/u/88492635/tagpro/icones%20grades/subscriber.png",
         "bouncer": "http://i.imgur.com/ENwcfzt.jpg",
         "rdj": "https://dl.dropboxusercontent.com/u/88492635/tagpro/icones%20grades/bouncer.png",
-        "subscriber": "#009CDD",
+        "subscriber": null,
         "silversubscriber": null
     }
 }
