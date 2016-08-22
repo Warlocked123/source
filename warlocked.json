@@ -27,8 +27,8 @@
         "user": null
     },
     "images": {
-        "background": null,
-        "playback": null,
+        "background": "http://imgur.com/AI3B5pb",
+        "playback": "http://imgur.com/AI3B5pb",
         "admin": null,
         "ambassador": null,
         "host": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
