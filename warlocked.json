@@ -1,7 +1,7 @@
 {
     "room": "Warlzinho",
     "author": "Warlocked",
-    "icon": "http://prntscr.com/c8ragg",
+    "icon": null,
     "css": "https://rawgit.com/Warlocked123/source/master/warlocked.css",
     "rules": {
         "allowAutorespond": true,
