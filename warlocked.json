@@ -27,8 +27,8 @@
         "user": null
     },
     "images": {
-        "background": "http://prntscr.com/c9363l",
-        "playback":   "http://prntscr.com/c9363l",
+        "background": null,
+        "playback": null,
         "admin": null,
         "ambassador": null,
         "host": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
