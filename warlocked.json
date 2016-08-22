@@ -28,7 +28,7 @@
     },
     "images": {
         "background": "https://cdn.radiant.dj/rcs/bg/2k14lounge.jpg",
-        "playback": "https://wearesocial-net.s3.amazonaws.com/br/wp-content/uploads/sites/6/2016/07/pokemon-go.jpg",
+        "playback": null,
         "admin": null,
         "ambassador": null,
         "host": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
