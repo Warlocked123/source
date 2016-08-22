@@ -27,8 +27,8 @@
         "user": null
     },
     "images": {
-        "background": "https://blog.intercom.io/wp-content/uploads/2015/04/Plug-DJ-hero-image.png",
-        "playback": "https://blog.intercom.io/wp-content/uploads/2015/04/Plug-DJ-hero-image.png",
+        "background": "http://img0.mxstatic.com/wallpapers/f558047b989460cb30e796bde33d1e6b_large.jpeg",
+        "playback": "http://img0.mxstatic.com/wallpapers/f558047b989460cb30e796bde33d1e6b_large.jpeg",
         "admin": null,
         "ambassador": null,
         "host": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
