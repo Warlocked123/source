@@ -16,8 +16,8 @@
     "ccc": {
         "admin": null,
         "ambassador": null,
-        "host":  "#42A5DC",
-        "cohost": "#42A5DC",
+        "host": "#009CDD",
+        "cohost": "#009CDD",
         "manager": null,
         "bouncer": null,
         "rdj": null,
@@ -36,7 +36,7 @@
         "manager": "https://dl.dropboxusercontent.com/u/88492635/tagpro/icones%20grades/subscriber.png",
         "bouncer": "http://i.imgur.com/ENwcfzt.jpg",
         "rdj": "https://dl.dropboxusercontent.com/u/88492635/tagpro/icones%20grades/bouncer.png",
-        "subscriber": null,
+        "subscriber": "#009CDD",
         "silversubscriber": null
     }
 }
