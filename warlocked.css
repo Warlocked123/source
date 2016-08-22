@@ -1,3 +1,10 @@
+/* Icone chat user */
+#chat-messages .from .icon.icon-chat-user {
+    top: 2px;
+}
+.msg .from .icon-chat-user {
+    background: url("http://i.imgur.com/dMx16zP.png") !important;
+}
 #room .app-right {
     background: rgba(0, 0, 0, 0.30);
 }
