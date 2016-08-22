@@ -1,7 +1,7 @@
 {
     "room": "Warlzinho",
     "author": "Warlocked",
-    "icon":  null,
+    "icon": null,
     "css": "https://rawgit.com/Warlocked123/source/master/warlocked.css",
     "rules": {
         "allowAutorespond": true,
@@ -16,7 +16,7 @@
     "ccc": {
         "admin": null,
         "ambassador": null,
-        "host":   null,
+        "host":  null,
         "cohost": null,
         "manager": null,
         "bouncer": null,
