@@ -28,7 +28,7 @@
     },
     "images": {
         "background": "http://i.imgur.com/AI3B5pb.jpg",
-        "playback": null,
+        "playback":  null,
         "admin": null,
         "ambassador": null,
         "host": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
