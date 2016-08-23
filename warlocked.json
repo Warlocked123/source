@@ -38,6 +38,10 @@
         "rdj": "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
         "subscriber": null,
         "silversubscriber": null
+    },
+    "emotes": {
+        "100%": "https://i.imgur.com/nhz07pH.jpg",
+        "idai": "https://i.imgur.com/OgHQCry.jpg"
     }
 }
 	
