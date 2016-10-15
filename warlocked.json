@@ -2,7 +2,7 @@
     "room": "World Of Pop",
     "author": "carlosney",
     "icon": null,
-    "css": "https://rawgit.com/Warlocked123/source/master/warlocked.css",
+    "css": "https://rawgit.com/WorldOfPop/source/master/carlosney.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
